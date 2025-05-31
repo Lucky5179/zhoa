@@ -21284,13 +21284,8 @@
                           children: "?",
                         }),
                         [
-                          "ABOUT",
                           "TOKENOMICS",
-                          "WORMHOLE",
-                          "STAKING",
-                          "LINKS",
                           "MEMES",
-                          "TEAM",
                         ].map((e) =>
                           (0, da.jsx)(
                             "a",
@@ -21324,13 +21319,8 @@
                 style: { display: "flex", gap: "30px", alignItems: "center" },
                 children: [
                   [
-                    "ABOUT",
-                    "WORMHOLE",
                     "TOKENOMICS",
-                    "STAKING",
-                    "LINKS",
                     "MEMES",
-                    "TEAM",
                   ].map((e) =>
                     (0, da.jsx)(
                       "a",
@@ -21493,7 +21483,7 @@
                       margin: "0 auto",
                     },
                     children: [
-                      "Where we never stopped believing that $BNB was great, Chengpang Zhoa was launched on August 28, 2024, on four.meme. The ",
+                      "Where we never stopped believing that $BNB was great, Chengpang Zhoa was launched on May 31, 2025, on four.meme. The ",
                       (0, da.jsx)("strong", { children: "$ZHOA" }),
                       " token aims to bring back the popularity of Binance\u2019s DeFi platform and rekindle its former memecoin glory.",
                     ],
@@ -22195,7 +22185,7 @@
         {
           name: "DexScreener",
           src: "/images/dexscreener.png",
-          url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
+          url: "https://dexscreener.com/bsc/0xcomingsoon",
         },
         {
           name: "PancakeSwap",
@@ -22569,7 +22559,7 @@
           },
           children: (0, da.jsx)("p", {
             children:
-              "COPYRIGHT @2025 CHENGPANG ZHOA. LEGAL DISCLAIMER: $ZHOA IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $ZHOA YOU ARE AGREEING TO THIS DISCLAIMER. Email us at admin@zhoa.xyz",
+              "COPYRIGHT @2025 CHENGPANG ZHOA. LEGAL DISCLAIMER: $ZHOA IS A MEME COIN WITH NO INTRINSIC VALUE OR EXPECTATION OF FINANCIAL RETURN. IT IS COMPLETELY USELESS AND ONLY FOR ENTERTAINMENT PURPOSES. WHEN YOU BUY $ZHOA YOU ARE AGREEING TO THIS DISCLAIMER. Email us at admin@zhoa.fun",
           }),
         })
       );

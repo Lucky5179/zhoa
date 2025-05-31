@@ -130,7 +130,7 @@ const About = () => {
             JOIN THE CULT 
           </h1>
           <p style={{ fontSize: isMobile ? "1rem" : "1.5rem", margin: "0 auto" }}>
-            Where we never stopped believing that $BNB was great, Chengpang Zhoa was launched on August 28, 2024, on four.meme.
+            Where we never stopped believing that $BNB was great, Chengpang Zhoa was launched on May 31, 2025, on four.meme.
             The <strong>$ZHOA</strong> token aims to bring back the popularity of Binance’s DeFi platform and rekindle
             its former memecoin glory.
           </p>

@@ -88,7 +88,7 @@ const Header = () => {
       </a>
       {!isMobile ? (
         <div style={{ display: "flex", gap: "30px", alignItems: "center" }}>
-          {["ABOUT", "WORMHOLE", "TOKENOMICS", "STAKING", "LINKS", "MEMES", "TEAM"].map(
+          {["TOKENOMICS", "MEMES"].map(
             (section) => (
               <a
                 key={section}
@@ -166,13 +166,8 @@ const Header = () => {
                 ?
               </button>
               {[
-                "ABOUT",
                 "TOKENOMICS",
-                "WORMHOLE",
-                "STAKING",
-                "LINKS",
                 "MEMES",
-                "TEAM",
               ].map((section) => (
                 <a
                   key={section}

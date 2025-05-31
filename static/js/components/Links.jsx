@@ -32,7 +32,7 @@ const Links = () => {
   }, []);
 
   const originalLinks = [
-    { name: "DexScreener", src: "/images/dexscreener.png", url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon" },
+    { name: "DexScreener", src: "/images/dexscreener.png", url: "https://dexscreener.com/bsc/0xcomingsoon" },
     { name: "PancakeSwap", src: "/images/pcs.png", url: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon" },
     { name: "Telegram", src: "/images/tg.png", url: "https://t.me/ChengpangzhoaonBNB" },
     { name: "X", src: "/images/x.png", url: "https://x.com/ZhoaonBNB" },
